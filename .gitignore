@@ -1,3 +1,10 @@
+# Compiled binary
+cps
+
+# input and output
+input
+output
+
 # Compiled Object files
 *.slo
 *.lo
