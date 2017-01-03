@@ -1,9 +1,9 @@
 # Compiled binary
-cps
+compress
+decompress
 
-# input and output
-input
-output
+# Test cases
+testcase/
 
 # Compiled Object files
 *.slo
